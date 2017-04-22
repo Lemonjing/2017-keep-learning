@@ -1,7 +1,3 @@
-# 2017-keep-learning
-
-List of Knowledgies To Be Learning or Reviewing:
-
 ```
 .
 ├── Framework
@@ -31,7 +27,7 @@ List of Knowledgies To Be Learning or Reviewing:
 │   ├── Zookeeper
 │   ├── Yarn
 │   ├── Storm
-│   ├── Hadoop2.x
+│   ├── 
 │   ├── 
 │   ├── 
 │   ├── 
