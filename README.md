@@ -4,30 +4,30 @@ List of Knowledgies To Be Learning or Reviewing:
 
 ```
 .
-├── Framework
+├── framework
 │   ├── MyBatis
 │   ├── kafka
-│   ├── Spring(Reviewing)
-│   ├── SpringMVC(Reviewing)
-│   ├── RabbitMQ(Reviewing)
+│   ├── Spring (Reviewing)
+│   ├── SpringMVC (Reviewing)
+│   ├── RabbitMQ (Reviewing)
 │   ├── 
 │   ├── 
 │   ├── 
 │   ├── 
 │   ├── 
 │   └── 
-├── DataBase
+├── database
 │   ├── Redis
 │   ├── MongoDB
 │   ├── 
 │   ├── 
 │   └── 
-├── Big Data & Computing
-│   ├── Spark
+├── bigdata
+│   ├── Spark (Started)
 │   ├── Spark Streaming
-│   ├── Hive(Reviewing)
-│   ├── HBase(Reviewing)
-│   ├── Hadoop(Reviewing)
+│   ├── Hive (Reviewing)
+│   ├── HBase (Reviewing)
+│   ├── Hadoop (Reviewing)
 │   ├── Zookeeper
 │   ├── Yarn
 │   ├── Storm
@@ -38,11 +38,11 @@ List of Knowledgies To Be Learning or Reviewing:
 │   ├── 
 │   ├── 
 │   └── 
-├── Language
+├── language
 │   ├── Scala
 │   ├── Python
 │   └── Java8
-├── AI
+├── ai
 │   ├── Machine Learning
 │   ├── TensorFlow
 │   ├── 
@@ -53,7 +53,7 @@ List of Knowledgies To Be Learning or Reviewing:
 │   ├── 
 │   ├── 
 │   └── 
-├── Others
+├── others
 │   ├── Wechat app
 │   ├── 
 │   ├── 
