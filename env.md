@@ -4,7 +4,7 @@
 
 ```
 root @ aliyun-slave1(120.25.154.222): Ubuntu 14.04
-root @ aliyun-slave2(To Be Add): Ubuntu 14.04
+root @ aliyun-slave2(To Be Added): Ubuntu 14.04
 root @ qcloud-master(123.207.251.21): Ubuntu 14.04
 ```
 
