@@ -3,9 +3,9 @@
 ## os params
 
 ```
-user:saber @ master.com(192.168.1.106): Mac OS X
-user:saber @ slave1.com(192.168.1.107): Ubuntu 14.04
-user:saber @ slave2.com(192.168.1.108): Ubuntu 14.04
+root @ aliyun-slave1(120.25.154.222): Ubuntu 14.04
+root @ aliyun-slave2(To Be Add): Ubuntu 14.04
+root @ qcloud-master(123.207.251.21): Ubuntu 14.04
 ```
 
 ## software params
