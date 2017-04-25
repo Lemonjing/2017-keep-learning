@@ -8,15 +8,15 @@
 <configuration>
       <property>
         <name>dfs.namenode.rpc-address</name>
-        <value>qcloud-master:9000</value>
+        <value>aliyun-master:9000</value>
       </property>
       <property>
           <name>dfs.namenode.http-address</name>
-          <value>qcloud-master:50070</value>
+          <value>aliyun-master:50070</value>
       </property>
       <property>
           <name>dfs.namenode.secondary.http-address</name>
-          <value>qcloud-master:50090</value>
+          <value>aliyun-master:50090</value>
       </property>
       <property>
           <name>dfs.namenode.name.dir</name>
@@ -36,7 +36,7 @@
       </property>
       <property>
           <name>dfs.nameservices</name>
-          <value>qcloud-master</value>
+          <value>aliyun-master</value>
       </property>
       <property>
           <name>dfs.webhdfs.enabled</name>
@@ -53,11 +53,11 @@
 <configuration>
        <property>
             <name>fs.defaultFS</name>
-            <value>hdfs://qcloud-master:9000</value>
+            <value>hdfs://aliyun-master:9000</value>
        </property>
        <property>
             <name>io.file.buffer.size</name>
-            <value>131072</value>
+            <value>4096</value>
         </property>
        <property>
             <name>hadoop.tmp.dir</name>
@@ -73,11 +73,11 @@
       </property>
       <property>
             <name>mapreduce.jobhistory.address</name>
-            <value>qcloud-master:10020</value>
+            <value>aliyun-master:10020</value>
       </property>
       <property>
             <name>mapreduce.jobhistory.webapp.address</name>
-            <value>qcloud-master:19888</value>
+            <value>aliyun-master:19888</value>
        </property>
 </configuration>
 
@@ -89,6 +89,6 @@
       </property>
       <property>
           <name>yarn.resourcemanager.hostname</name>
-          <value>qcloud-master</value>
+          <value>aliyun-master</value>
       </property>
 </configuration>
